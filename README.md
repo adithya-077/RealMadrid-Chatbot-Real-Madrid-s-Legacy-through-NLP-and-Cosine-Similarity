@@ -1,1 +1,1 @@
-# RealMadrid-Chatbot-Real-Madrid-s-Legacy-through-NLP-and-Cosine-Similarity
+The RealMadrid-Chatbot is an innovative project that leverages Natural Language Processing (NLP), TF-IDF (Term Frequency-Inverse Document Frequency), and Cosine Similarity techniques to create an interactive chatbot focused on Real Madrid Football Club. As a FastAPI server, this chatbot is designed to provide users with insightful information about the team, players, and the rich history of Real Madrid.
